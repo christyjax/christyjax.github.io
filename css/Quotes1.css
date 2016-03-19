@@ -39,8 +39,8 @@ h2
 #i10:hover{
    width:250px;
    height:250px;
--webkit-transform: rotate(30deg); /* Safari */
-    transform: rotate(30deg);
+-webkit-transform: rotate(15deg); /* Safari */
+    transform: rotate(15deg);
 }
 
 #i11:hover{
@@ -91,8 +91,8 @@ h2
 #i10:hover{
    width:250px;
    height:250px;
--webkit-transform: rotate(10deg); /* Safari */
-    transform: rotate(10deg);
+-webkit-transform: rotate(5deg); /* Safari */
+    transform: rotate(5deg);
 }
   .alignment
  {
@@ -118,8 +118,7 @@ a:hover {
 #i15:hover{
    width:350px;
    height:350px;
--webkit-transform: rotate(25deg); /* Safari */
-    transform: rotate(25deg);
+ 
 }
 
 
