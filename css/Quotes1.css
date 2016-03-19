@@ -82,6 +82,18 @@ h2
   left:600px;
    top:400px;
 } 
+
+ .i7{
+   position:absolute; 
+  left:900px;
+   top:400px;
+}
+#i10:hover{
+   width:250px;
+   height:250px;
+-webkit-transform: rotate(10deg); /* Safari */
+    transform: rotate(10deg);
+}
   .alignment
  {
    margin-top:60px;
