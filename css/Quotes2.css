@@ -5,10 +5,18 @@
 	width: 100%;
 	text-align: right;
 }
+#main
+{
+	position:absolute;
+	 left:100px;
+	 top:40px;
+}
 
 #home{
 	margin-right: 10px;
-}h1
+}
+
+h1
 { 
   text-align:center;
   font-family:georgia,sans-serif;
