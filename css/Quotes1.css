@@ -8,7 +8,7 @@
 }
 #main
 {
-	position:absolute;
+	float:left;
 	 left:30px;
 	 top:50px;
 }
