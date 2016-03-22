@@ -99,11 +99,11 @@ h2
 	text-decoration: none;
 	font-size: 18px;
 	letter-spacing: 2px;
-	color: #605f83;
+	color: black;
 }
 
 a:hover {
-	color: #5f8360;
+	color: brown;
          text-decoration:overline;
          cursor:point;
 }
