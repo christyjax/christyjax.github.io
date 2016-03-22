@@ -39,14 +39,14 @@ h2
   left:400px;
    top:200px;
 }
- .i2:hover{
+ #a:hover{
   width:400px;
   height:400px;
     
  -webkit-transform: rotate(20deg); /* Safari */
    transform: rotate(20deg);
 }
-}
+ 
  
  .i3
   {
@@ -99,9 +99,9 @@ a:hover {
          cursor:point;
 }
 
-.i8:hover{
+#all:hover{
    width:250px;
    height:250px;
--webkit-transform: rotate(20deg); /* Safari */
-    transform: rotate(20deg);
+-webkit-transform: rotate(10deg); /* Safari */
+    transform: rotate(10deg);
 }
