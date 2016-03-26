@@ -6,14 +6,14 @@
 	text-align: right;
         color:#696969;
 }
-#main
+.main
 {
 	position:absolute;
 	 left:100px;
 	 top:40px;
 }
 
-img
+image
 {
 	 
     border-radius: 50%;
