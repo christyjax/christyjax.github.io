@@ -11,10 +11,14 @@
 	position:absolute;
 	 left:100px;
 	 top:40px;
+}
+
+img
+{
 	 
     border-radius: 50%;
 }
-}
+
 #home{
 	margin-right: 10px;
 }h1
