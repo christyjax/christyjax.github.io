@@ -46,7 +46,7 @@ h2
 
 #i1:hover{
   
-  width:400;
+  width:200;
   height:350;
   -webkit-transform: rotate(25deg); /* Safari */
    transform: rotate(25deg);
