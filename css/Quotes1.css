@@ -48,8 +48,8 @@ h2
   
   width:400;
   height:350;
-    -webkit-transform: rotate(25deg); /* Safari */
-    transform: rotate(25deg);
+  -webkit-transform: rotate(25deg); /* Safari */
+   transform: rotate(25deg);
  
 }
 
@@ -57,7 +57,7 @@ h2
    width:250px;
    height:250px;
 -webkit-transform: rotate(15deg); /* Safari */
-    transform: rotate(15deg);
+   transform: rotate(15deg);
 }
 
 #i11:hover{
